@@ -20,7 +20,7 @@ In the project directory, the Application can search and give information about 
 
 #### Tesla Pages
 
-<img src="./movie1.PNG"/>
+<img src="./movi1.PNG"/>
 <hr/>
 <img src="./movie2.PNG"/>
 <hr/>
